@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gabby :3
-- 👀 My hobbies are coding, drawing, writing, and video game!
+- 👀 My hobbies are drawing, writing, and video games!
 - 🌱 I’m currently learning C++ and Python
 - 📫 How to reach me: thegabbyshow@hotmail.com
 
