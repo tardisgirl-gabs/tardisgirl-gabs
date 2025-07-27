@@ -1,5 +1,5 @@
 - Heyy✨ I'm Gabby :3
-- I'm currently developing my skills in Frontend Prgramming
+- I'm currently developing my skills in Frontend Programming
 - I'm also a digital designer, you can find my portfoio here: https://www.behance.net/gabbybrown3
 
 <!---
